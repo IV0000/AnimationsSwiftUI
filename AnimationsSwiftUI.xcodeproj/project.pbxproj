@@ -12,6 +12,7 @@
 		FF6CDB7C27F495D400E292F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF6CDB7B27F495D400E292F9 /* Preview Assets.xcassets */; };
 		FF6CDB8327F495ED00E292F9 /* RecordingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6CDB8227F495ED00E292F9 /* RecordingAnimation.swift */; };
 		FFC77F6D27F595FB0088C6AF /* UploadButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC77F6C27F595FB0088C6AF /* UploadButton.swift */; };
+		FFC77F7127F70EBC0088C6AF /* PayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC77F7027F70EBC0088C6AF /* PayButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		FF6CDB7B27F495D400E292F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FF6CDB8227F495ED00E292F9 /* RecordingAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingAnimation.swift; sourceTree = "<group>"; };
 		FFC77F6C27F595FB0088C6AF /* UploadButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadButton.swift; sourceTree = "<group>"; };
+		FFC77F7027F70EBC0088C6AF /* PayButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PayButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				FF6CDB7827F495D400E292F9 /* Assets.xcassets */,
 				FF6CDB7A27F495D400E292F9 /* Preview Content */,
 				FFC77F6C27F595FB0088C6AF /* UploadButton.swift */,
+				FFC77F7027F70EBC0088C6AF /* PayButton.swift */,
 			);
 			path = AnimationsSwiftUI;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFC77F7127F70EBC0088C6AF /* PayButton.swift in Sources */,
 				FF6CDB7527F495D200E292F9 /* AnimationsSwiftUIApp.swift in Sources */,
 				FF6CDB8327F495ED00E292F9 /* RecordingAnimation.swift in Sources */,
 				FFC77F6D27F595FB0088C6AF /* UploadButton.swift in Sources */,

@@ -35,7 +35,7 @@ struct UploadButton: View {
 }
 
 
-struct AsyncButton_Previews: PreviewProvider {
+struct UploadButton_Previews: PreviewProvider {
     static var previews: some View {
         UploadButton()
     }
