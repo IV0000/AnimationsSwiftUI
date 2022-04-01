@@ -8,3 +8,6 @@ A collection of simple animations in SwiftUI
 Inspired by [this](https://trailingclosure.com/micro-interactions-async-button/).     
 
 ![Simulator Screen Recording - iPhone 11 - 2022-03-31 at 10 01 12](https://user-images.githubusercontent.com/94223094/161006888-e5423a92-5b09-4c8e-82bf-b73de6f6de91.gif)
+
+## Pay Button
+![Simulator Screen Recording - iPhone 11 - 2022-04-01 at 12 48 40](https://user-images.githubusercontent.com/94223094/161249385-0ca4d39b-ceb3-4872-8036-4d540c7eb67e.gif)
